@@ -229,15 +229,3 @@ Website
 - `git push` to push to GitHub
 - `npm publish` to send to NPM (you need to be logged in and have the right to update Keppler on NPM)
 
-## Credits
-
-##### Development
-
-- Bruno Simon ([GitHub](https://github.com/brunosimon), [Twitter](https://twitter.com/bruno_simon/), [Site](https://bruno-simon.com))
-
-##### UX / UI
-
-- Tom Bonnike
-- Thibaud Vaubourg
-- Aymeric Sans
-- Axel Chalon
